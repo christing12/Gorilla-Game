@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 2ccc754edff4b4cf19f80398e8bc6ae9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: belly_JNT
+    100002: //RootNode
+    100004: boss_model
+    100006: chest_JNT
+    100008: head_JNT
+    100010: key_JNT
+    100012: LF_arm_1_JNT
+    100014: LF_arm_2_JNT
+    100016: LF_arm_3_JNT
+    100018: LF_arm_4_JNT
+    100020: LF_arm_5_JNT
+    100022: LF_ball_JNT
+    100024: LF_fing_back_1_JNT
+    100026: LF_fing_back_2_JNT
+    100028: LF_fing_back_3_JNT
+    100030: LF_fing_back_4_JNT
+    100032: LF_fing_front_1_JNT
+    100034: LF_fing_front_2_JNT
+    100036: LF_fing_front_3_JNT
+    100038: LF_fing_front_4_JNT
+    100040: LF_fing_mid_1_JNT
+    100042: LF_fing_mid_2_JNT
+    100044: LF_fing_mid_3_JNT
+    100046: LF_fing_mid_tip
+    100048: LF_foot_tip
+    100050: LF_forearm_JNT
+    100052: LF_heel_JNT
+    100054: LF_knee_1_JNT
+    100056: LF_knee_2_JNT
+    100058: LF_leg_JNT
+    100060: LF_palm_JNT
+    100062: LF_wrist_JNT
+    100064: neck_JNT
+    100066: RT_arm_1_JNT
+    100068: RT_arm_2_JNT
+    100070: RT_arm_3_JNT
+    100072: RT_arm_4_JNT
+    100074: RT_arm_5_JNT
+    100076: RT_ball_JNT
+    100078: RT_fing_back_1_JNT
+    100080: RT_fing_back_2_JNT
+    100082: RT_fing_back_3_JNT
+    100084: RT_fing_back_4_JNT
+    100086: RT_fing_front_1_JNT
+    100088: RT_fing_front_2_JNT
+    100090: RT_fing_front_3_JNT
+    100092: RT_fing_front_4_JNT
+    100094: RT_fing_mid_1_JNT
+    100096: RT_fing_mid_2_JNT
+    100098: RT_fing_mid_3_JNT
+    100100: RT_fing_mid_tip
+    100102: RT_foot_tip
+    100104: RT_forearm_JNT
+    100106: RT_heel_JNT
+    100108: RT_knee_1_JNT
+    100110: RT_knee_2_JNT
+    100112: RT_leg_JNT
+    100114: RT_palm_JNT
+    100116: RT_wrist_JNT
+    100118: spine_JNT
+    400000: belly_JNT
+    400002: //RootNode
+    400004: boss_model
+    400006: chest_JNT
+    400008: head_JNT
+    400010: key_JNT
+    400012: LF_arm_1_JNT
+    400014: LF_arm_2_JNT
+    400016: LF_arm_3_JNT
+    400018: LF_arm_4_JNT
+    400020: LF_arm_5_JNT
+    400022: LF_ball_JNT
+    400024: LF_fing_back_1_JNT
+    400026: LF_fing_back_2_JNT
+    400028: LF_fing_back_3_JNT
+    400030: LF_fing_back_4_JNT
+    400032: LF_fing_front_1_JNT
+    400034: LF_fing_front_2_JNT
+    400036: LF_fing_front_3_JNT
+    400038: LF_fing_front_4_JNT
+    400040: LF_fing_mid_1_JNT
+    400042: LF_fing_mid_2_JNT
+    400044: LF_fing_mid_3_JNT
+    400046: LF_fing_mid_tip
+    400048: LF_foot_tip
+    400050: LF_forearm_JNT
+    400052: LF_heel_JNT
+    400054: LF_knee_1_JNT
+    400056: LF_knee_2_JNT
+    400058: LF_leg_JNT
+    400060: LF_palm_JNT
+    400062: LF_wrist_JNT
+    400064: neck_JNT
+    400066: RT_arm_1_JNT
+    400068: RT_arm_2_JNT
+    400070: RT_arm_3_JNT
+    400072: RT_arm_4_JNT
+    400074: RT_arm_5_JNT
+    400076: RT_ball_JNT
+    400078: RT_fing_back_1_JNT
+    400080: RT_fing_back_2_JNT
+    400082: RT_fing_back_3_JNT
+    400084: RT_fing_back_4_JNT
+    400086: RT_fing_front_1_JNT
+    400088: RT_fing_front_2_JNT
+    400090: RT_fing_front_3_JNT
+    400092: RT_fing_front_4_JNT
+    400094: RT_fing_mid_1_JNT
+    400096: RT_fing_mid_2_JNT
+    400098: RT_fing_mid_3_JNT
+    400100: RT_fing_mid_tip
+    400102: RT_foot_tip
+    400104: RT_forearm_JNT
+    400106: RT_heel_JNT
+    400108: RT_knee_1_JNT
+    400110: RT_knee_2_JNT
+    400112: RT_leg_JNT
+    400114: RT_palm_JNT
+    400116: RT_wrist_JNT
+    400118: spine_JNT
+    2100000: boss_mat
+    4300000: boss_model
+    9500000: //RootNode
+    13700000: boss_model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 200
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
